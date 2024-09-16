@@ -11,14 +11,11 @@
 
 ### 💻 Technologies & Tools:
 
-#### 🔧 Back-end:
-[![My Skills Back-end](https://skillicons.dev/icons?i=js,ts,python,prisma,postgresql,python)](https://skillicons.dev)
+#### 🔧 Languages:
+[![My Skills Back-end](https://skillicons.dev/icons?i=js,ts,python,prisma,postgresql,python,html,css,sass)](https://skillicons.dev)
 
-#### 🎨 Front-end:
-[![My Skills Front-end](https://skillicons.dev/icons?i=react,html,css,sass)](https://skillicons.dev)
-
-#### ⚙️ Full-stack:
-[![My Skills Full-stack](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+#### ⚙️ Frameworks:
+[![My Skills Full-stack](https://skillicons.dev/icons?i=nextjs,react)](https://skillicons.dev)
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/rapha%C3%ABl-moryson-82abb2248/)
