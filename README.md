@@ -18,4 +18,5 @@
 
 ### 🌐 Connect with Me :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/rapha%C3%ABl-moryson-82abb2248/)
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter)](https
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter)](https://twitter.com/rph712)
+[![Mail](https://img.shields.io/badge/-Mail-%23D14836?style=flat&logo=gmail)](mailto:raphael.moryson@gmail.com)
