@@ -11,7 +11,7 @@
 [![My Skills Back-end](https://skillicons.dev/icons?i=js,ts,python,prisma,postgresql)](https://skillicons.dev)
 
 #### 🎨 Front-end :
-[![My Skills Front-end](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
+[![My Skills Front-end](https://skillicons.dev/icons?i=react,html,css,sass)](https://skillicons.dev)
 
 #### ⚙️ Full-stack :
 [![My Skills Full-stack](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
