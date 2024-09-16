@@ -12,7 +12,7 @@
 ### 💻 Technologies & Tools:
 
 #### 🔧 Back-end:
-[![My Skills Back-end](https://skillicons.dev/icons?i=js,ts,python,prisma,postgresql)](https://skillicons.dev)
+[![My Skills Back-end](https://skillicons.dev/icons?i=js,ts,python,prisma,postgresql,python)](https://skillicons.dev)
 
 #### 🎨 Front-end:
 [![My Skills Front-end](https://skillicons.dev/icons?i=react,html,css,sass)](https://skillicons.dev)
