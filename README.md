@@ -20,6 +20,10 @@
 #### ⚙️ Frameworks:
 [![My Skills Full-stack](https://skillicons.dev/icons?i=nextjs,react)](https://skillicons.dev)
 
+#### 🎲 OS:
+[![My Skills Full-stack](https://skillicons.dev/icons?i=windows,apple)](https://skillicons.dev)
+
+
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/rapha%C3%ABl-moryson-82abb2248/)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter)](https://twitter.com/rph712)
