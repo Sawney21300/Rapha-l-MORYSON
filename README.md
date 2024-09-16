@@ -6,7 +6,15 @@
 - 🌱 Je continue d’apprendre **l'Intelligence Artificielle** et **l'Automatisation**
 
 ### 💻 Technologies & Outils :
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,python,prisma,postgresql)](https://skillicons.dev)
+
+#### 🔧 Back-end :
+[![My Skills Back-end](https://skillicons.dev/icons?i=js,ts,python,prisma,postgresql)](https://skillicons.dev)
+
+#### 🎨 Front-end :
+[![My Skills Front-end](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
+
+#### ⚙️ Full-stack :
+[![My Skills Full-stack](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
 ### 🌐 Connect with Me :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/rapha%C3%ABl-moryson-82abb2248/))
