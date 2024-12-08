@@ -14,7 +14,7 @@
 ### 💻 Technologies & Tools:
 
 #### 🔧 Languages:
-[![My Skills Back-end](https://skillicons.dev/icons?i=js,ts,php,python,lua,html,css,sass)](https://skillicons.dev)
+[![My Skills Back-end](https://skillicons.dev/icons?i=js,php,python,lua,html,css,sass)](https://skillicons.dev)
 
 #### 🗄️ Databases:
 [![My Skills Full-stack](https://skillicons.dev/icons?i=prisma,postgresql)](https://skillicons.dev)
