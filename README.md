@@ -3,7 +3,7 @@
 ### 🌟 About Me
 - 🌐 I’m currently working on my **[portfolio](https://google.com)**
 - 👨‍💻 Passionate about front-end and back-end development
-- 🎯 Currently working on **[React.js](https://reactjs.org/)** and **[Next.js](https://nextjs.org/)** projects
+- 🎯 Currently working on **[Laravel](https://laravel.com/)** and **[Next.js](https://nextjs.org/)** projects
 - 🏢 **Web Developer in Alternance** at **[R&D Networks](https://www.retdnetworks.com/)**  
 - 🔧 Developing custom modules for **Dolibarr** in collaboration with my company  
 
